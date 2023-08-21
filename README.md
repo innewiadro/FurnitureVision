@@ -40,7 +40,7 @@ This chapter describes how to use your project in Google Colab.
 1. **Step 1:** Clone this notebook into your Google Colab account.
 2. **Step 2:** Open the notebook in Google Colab.
 3. **Step 3:** Follow the steps in the notebook to see the results of your project.
-4. **Step 4:** It is possible to load models 1-7 and the training history.
+4. **Step 4:** It is possible to load models and the training history.
 To do this you will need to create folders on your Google Drive and copy the published models and training histories.
 Folder paths to create are e.g. :
 
@@ -55,6 +55,8 @@ os.makedirs('drive/MyDrive/project_computer_vision/model/', exist_ok=True)
 os.makedirs('drive/MyDrive/project_computer_vision/history', exist_ok=True)
 ```
 Then load the model and history using the load_all_models and load_history functions.
+
+**The files model_2.keras, model_8.keras and model_9.keras as well as history_2.npy, history_8.npy and history_9.npy are not placed in the repository as they take up too much space.**
 
 ## Models
 Models created in this project:
