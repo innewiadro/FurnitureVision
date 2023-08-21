@@ -60,15 +60,15 @@ Then load the model and history using the load_all_models and load_history funct
 
 ## Models
 Models created in this project:
-1. 'Basic model': A simple baseline model using fundamental parameters.
-2. 'Increased number of neurons': Model with an increased number of neurons in layers.
-3. 'Reduced number of neurons': Model with a decreased number of neurons in layers.
-4. 'Kernel size (4, 4)': Model with larger convolutional kernel size (4x4).
-5. 'Dropout (0.5)' (25 epochs): Model with dropout layers having a rate of 0.5 trained for 25 epochs.
-6. 'Dropout (0.5) (50 epochs ': Model with dropout layers having a rate of 0.5 trained for 50 epochs.
-7. 'Regularisation (0.01)': Model with regularization at a rate of 0.01.
-8. 'Transfer Learning (epochs = 10)': Model utilizing transfer learning, trained for 10 epochs.
-9. 'Transfer Learning (epochs = 25)': Model utilizing transfer learning, trained for 25 epochs.
+1. *'Basic model'*: A simple baseline model using fundamental parameters.
+2. *'Increased number of neurons'*: Model with an increased number of neurons in layers.
+3. *'Reduced number of neurons'*: Model with a decreased number of neurons in layers.
+4. *'Kernel size (4, 4)'*: Model with larger convolutional kernel size (4x4).
+5. *'Dropout (0.5) (25 epochs)'*: Model with dropout layers having a rate of 0.5 trained for 25 epochs.
+6. *'Dropout (0.5) (50 epochs)'*: Model with dropout layers having a rate of 0.5 trained for 50 epochs.
+7. *'Regularisation (0.01)'*: Model with regularization at a rate of 0.01.
+8. *'Transfer Learning (epochs = 10)'*: Model utilizing transfer learning, trained for 10 epochs.
+9. *'Transfer Learning (epochs = 25)'*: Model utilizing transfer learning, trained for 25 epochs.
 
 ## Project Status
 The project is currently in progress. Future plans include the addition of new features to enhance its capabilities. Stay tuned for updates and exciting enhancements!
